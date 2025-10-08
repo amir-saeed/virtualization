@@ -3,6 +3,8 @@
 A comprehensive, production-ready example of **TanStack Table v8** (React Table) demonstrating advanced features for building complex, data-dense table UIs.
 
 ![Employee Directory Screenshot](./public/screen1.png)
+![Employee Directory Screenshot](./public/screen2.png)
+![Employee Directory Screenshot](./public/screen3.png)
 
 ## 🎯 Overview
 
