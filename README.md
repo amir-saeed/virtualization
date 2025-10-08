@@ -237,8 +237,6 @@ MIT - Feel free to use this in your projects!
 **Amir Saeed**  
 Senior Full-Stack Developer | 12+ Years Experience  
 - Portfolio: [https://amirsaeed.co.uk](https://amirsaeed.co.uk)
-- Email: uk.amir.saeed@gmail.com
-- Location: Luton, UK
 
 ---
 
